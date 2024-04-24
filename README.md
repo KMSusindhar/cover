@@ -157,7 +157,7 @@ cover.html
                 <hr style="color:rgb(208, 205, 255)">
             </div>
             <div class="author">
-               <p><b>SUSINDHAR KM(212223040)</b></p>
+               <p><b>SUSINDHAR KM(212223040218)</b></p>
             </div>
             <div class="pub">
                 SEC 27'
@@ -170,7 +170,7 @@ cover.html
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-24 221000.png>)
+![alt text](<Screenshot 2024-04-24 221558.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
